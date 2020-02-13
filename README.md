@@ -1,5 +1,5 @@
 # import_scrambler
-an import scrambler because @y5 had issues with other scramblers :sunglasses:
+an import scrambler because [mephistopheles](https://github.com/y5) had issues with other scramblers :sunglasses:
 
 this library on its own doesn't really protect you from anything but can be pretty useful against skids in combination with xor'ing your strings or just replacing all strings with compile time hashes
 
